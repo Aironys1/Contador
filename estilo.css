@@ -1,0 +1,47 @@
+
+*{
+    background-color: #1bb5c0;
+    text-align: center;
+    margin-top:50px;
+}
+
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+p{
+    font-size:30px;
+    color: #1a1d9b;
+    font-weight:bold;
+}
+
+button{
+    background-color:#979393;
+    width: 200px;
+    border-radius:40px;
+    border:3px solid #000000;
+    font-size:25px;
+    color:white;
+    margin:10px;
+}
+
+button:hover{
+    background-color:#ffffff;
+    width: 200px;
+    border-radius:40px;
+    border:3px solid #0a34a8;
+    font-size:25px;
+    color:rgb(0, 0, 0);
+    margin:10px;
+}
+
+
+#currentNumber{
+    font-size:30px;
+    color:blue;
+    margin:10px;
+    font-weight: bold;
+
+
+}
